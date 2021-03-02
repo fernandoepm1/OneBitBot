@@ -1,7 +1,7 @@
 source :rubygems
 
 gem 'sinatra', '~> 2.0.5'
-gem 'activerecord', '~> 5.2.2'
+gem 'activerecord', '~> 5.2.4'
 gem 'sinatra-activerecord', '~> 2.0.14'
 gem 'pg'
 gem 'pg_search', '~> 2.0.1'
